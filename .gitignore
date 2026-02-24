@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+saved_indicbert/
+saved_tfidf_model.joblib
+results/
+logs/
+.env
+.DS_Store
