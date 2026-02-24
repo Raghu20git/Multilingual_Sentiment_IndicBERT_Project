@@ -146,7 +146,7 @@ Multilingual_Sentiment_Project/
 ├── .vscode/
 │   └── settings.json
 ├── Dataset/
-│   ├── code_mixed_test.csv
+│   ├── code_mixed_text.csv
 │   └── indian_ride_hailing_services_analysis.csv
 ├── Images
 ├── .gitignore
